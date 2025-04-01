@@ -1,0 +1,134 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>A Bíblia em Imagens Vivas</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    header {
+      background: linear-gradient(to right, #1e3c72, #2a5298);
+      color: white;
+      text-align: center;
+      padding: 40px 20px;
+    }
+    header img {
+      width: 100%;
+      max-height: 400px;
+      object-fit: cover;
+      border-bottom: 5px solid #ff9900;
+      border-radius: 0 0 10px 10px;
+    }
+    header h1 {
+      font-size: 2.5rem;
+      margin: 20px 0 10px;
+    }
+    header p {
+      font-size: 1.2rem;
+    }
+    .cta-button {
+      background: #ff9900;
+      color: white;
+      padding: 15px 30px;
+      border: none;
+      border-radius: 8px;
+      font-size: 1.1rem;
+      margin-top: 20px;
+      cursor: pointer;
+    }
+    section {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 20px;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+    }
+    h2 {
+      color: #1e3c72;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    ul li {
+      margin-bottom: 10px;
+    }
+    section img {
+      width: 100%;
+      border-radius: 10px;
+      margin-top: 20px;
+    }
+    footer {
+      background: #1e3c72;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <img src="https://cdn.pixabay.com/photo/2016/11/29/03/53/jesus-1869723_960_720.jpg" alt="Jesus e discípulos">
+  <h1>A Bíblia como Você Nunca Viu</h1>
+  <p>Descubra as Escrituras com Imagens Vivas — ideal para cristãos e para quem tem dificuldade em entender a Palavra de Deus.</p>
+  <button class="cta-button">Quero Entender a Bíblia com Clareza</button>
+</header>
+
+<section>
+  <h2>O Que Você Vai Receber</h2>
+  <ul>
+    <li>Mais de 150 imagens ultra-realistas das passagens bíblicas</li>
+    <li>Personagens com retratos fiéis ao contexto histórico</li>
+    <li>Mapas e linha do tempo visual da Bíblia</li>
+    <li>Salmos e Provérbios ilustrados</li>
+    <li>Bônus especiais para aprofundar a fé</li>
+  </ul>
+  <img src="https://cdn.pixabay.com/photo/2020/02/21/14/48/ark-4866674_960_720.jpg" alt="Arca de Noé">
+</section>
+
+<section>
+  <h2>Por Que Esse Material é Diferente?</h2>
+  <ul>
+    <li><strong>Visual Impactante:</strong> Você enxerga o que está lendo</li>
+    <li><strong>Interpretação Facilitada:</strong> Perfeito pra quem tem dificuldade com linguagem bíblica</li>
+    <li><strong>Feito com Amor Cristão:</strong> Sem doutrinação, apenas clareza</li>
+    <li><strong>100% Digital:</strong> Acesso imediato e vitalício</li>
+  </ul>
+  <img src="https://cdn.pixabay.com/photo/2018/04/01/15/04/moses-3286021_960_720.jpg" alt="Moisés abrindo o mar">
+</section>
+
+<section>
+  <h2>Depoimentos de Quem Já Aprovou</h2>
+  <p>“Sempre tive dificuldade de entender a Bíblia. Agora vejo com clareza. As imagens me tocaram.” – João M.</p>
+  <p>“As ilustrações me ajudaram a ver passagens que eu nunca entendi antes.” – Camila R.</p>
+</section>
+
+<section>
+  <h2>Perguntas Frequentes</h2>
+  <p><strong>Preciso ser evangélico?</strong> Não. Esse material é para todos que desejam entender a Bíblia.</p>
+  <p><strong>Funciona no celular?</strong> Sim. Totalmente compatível com celular, tablet e PC.</p>
+  <p><strong>É físico ou digital?</strong> 100% digital. Você recebe o acesso no e-mail após a compra.</p>
+</section>
+
+<section style="text-align:center;">
+  <h2>Oferta Especial por Tempo Limitado</h2>
+  <p><strong>R$ 37 à vista</strong> ou <strong>5x de R$ 8,19</strong></p>
+  <p><em>Bônus incluídos: Salmos e Provérbios ilustrados, galeria de personagens bíblicos, linha do tempo + mapas interativos</em></p>
+  <button class="cta-button">Quero Garantir Meu Acesso</button>
+</section>
+
+<footer>
+  © 2025 Bíblia Viva. Todos os direitos reservados. | Política de Privacidade | Termos de Uso
+</footer>
+
+</body>
+</html>
